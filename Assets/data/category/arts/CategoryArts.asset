@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cba4c58c82c3de4eadcfd2de9a075ca, type: 3}
+  m_Name: CategoryArts
+  m_EditorClassIdentifier: 
+  Name: Arts
+  Questions:
+  - {fileID: 11400000, guid: fec76b1292dad564f853d9eb62d4d018, type: 2}
+  - {fileID: 11400000, guid: 3a945b2d5f8f435428c353a4076f7adf, type: 2}
+  - {fileID: 11400000, guid: f1bfe8ad0274a274a9ede5e9640eb530, type: 2}
+  - {fileID: 11400000, guid: 331b40a9b44a17e4e80b31149a3ac980, type: 2}
+  - {fileID: 11400000, guid: 0af8cb2dccc6233418c127f1bda88304, type: 2}
+  - {fileID: 11400000, guid: fb164da46cf65e14e9d87a72f131fb74, type: 2}
+  - {fileID: 11400000, guid: 3afa5e12780806b4993dfeb936a84132, type: 2}
+  - {fileID: 11400000, guid: 08b0dca6bc744ae4281928d0c0cead4a, type: 2}
+  - {fileID: 11400000, guid: 699bbb45827c74645bb1ea4456fc7b96, type: 2}
+  - {fileID: 11400000, guid: 98726eff09c5cb74a95cea65063b9f7c, type: 2}

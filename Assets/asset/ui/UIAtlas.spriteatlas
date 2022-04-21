@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ef8bd7573fdaa29498ce61de222c4b8f, type: 3}
+    - {fileID: 2800000, guid: 41fb4c5b7c01bf64786984f29d3b4f98, type: 3}
+    - {fileID: 2800000, guid: 631ee703c84c5694fbb4dcd17c6f1923, type: 3}
+    - {fileID: 2800000, guid: b790a0c050bb3c14a8c60dff30b1ffd8, type: 3}
+    - {fileID: 2800000, guid: 995db11a070199d4a926d37088dab8f0, type: 3}
+    - {fileID: 2800000, guid: deb22ef7438577b4495842c687fea3c7, type: 3}
+    - {fileID: 2800000, guid: d20e83e23e5bc404f9a05135f1fe307f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b790a0c050bb3c14a8c60dff30b1ffd8, type: 3}
+  - {fileID: 21300000, guid: d20e83e23e5bc404f9a05135f1fe307f, type: 3}
+  - {fileID: 21300000, guid: 631ee703c84c5694fbb4dcd17c6f1923, type: 3}
+  - {fileID: 21300000, guid: ef8bd7573fdaa29498ce61de222c4b8f, type: 3}
+  - {fileID: 21300000, guid: deb22ef7438577b4495842c687fea3c7, type: 3}
+  - {fileID: 21300000, guid: 995db11a070199d4a926d37088dab8f0, type: 3}
+  - {fileID: 21300000, guid: 41fb4c5b7c01bf64786984f29d3b4f98, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Logo
+  - Settings
+  - Leaderboard
+  - Background
+  - Quit
+  - Play
+  - Button
+  m_RenderDataMap: {}
+  m_Tag: UIAtlas
+  m_IsVariant: 0

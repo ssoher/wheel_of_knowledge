@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb755f7c84b3d534e95a91400452cfaf, type: 3}
+  m_Name: QuestionEntertainment3
+  m_EditorClassIdentifier: 
+  Text: In Spain, kids call them Pitufo; in Germany, Schlumpg. What do American kids
+    call them?
+  Answers:
+  - Text: T.M.N.T.
+    IsCorrect: 0
+  - Text: Smurfs
+    IsCorrect: 1
+  - Text: Avengers
+    IsCorrect: 0

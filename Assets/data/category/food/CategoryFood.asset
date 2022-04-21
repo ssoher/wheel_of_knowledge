@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cba4c58c82c3de4eadcfd2de9a075ca, type: 3}
+  m_Name: CategoryFood
+  m_EditorClassIdentifier: 
+  Name: Food
+  Questions:
+  - {fileID: 11400000, guid: 1225b5cc47cfa4e479cbb0cc2f632472, type: 2}
+  - {fileID: 11400000, guid: 0cec3294f9c519b4aa944c58dab4ce50, type: 2}
+  - {fileID: 11400000, guid: be953065c7097d349ad640e9aa594f79, type: 2}
+  - {fileID: 11400000, guid: bdea446c56173554d98db542dc2f2d92, type: 2}
+  - {fileID: 11400000, guid: 8ae221a064494b34684a52d1a91d7cb4, type: 2}
+  - {fileID: 11400000, guid: 9cbcc3067732dc54881c4a85b0fab6fa, type: 2}
+  - {fileID: 11400000, guid: 142c5a9370df6f4438a07d49382244b2, type: 2}
+  - {fileID: 11400000, guid: 438249c1017856640b6c54b47b418a67, type: 2}
+  - {fileID: 11400000, guid: 546afff318ec9d949a7c1dad16720b47, type: 2}
+  - {fileID: 11400000, guid: a34fc1eb900e3c143bc7a8fe334080e4, type: 2}
